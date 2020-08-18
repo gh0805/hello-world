@@ -1,2 +1,2 @@
 # hello-world
-study how to create a repository
+studt how to edit a file
